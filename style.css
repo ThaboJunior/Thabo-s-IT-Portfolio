@@ -326,6 +326,10 @@ nav .fa-solid{
     .header-text h1{
         font-size: 30px;
     }
+    .header-text p{
+        font-size: 25px;
+        color: #ff004f;
+    }
     nav .fa-regular{
         display: block;
         font-size: 25px;
